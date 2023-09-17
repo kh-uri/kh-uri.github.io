@@ -10,11 +10,11 @@ body {
 }
   
 #navTable {
-    width: 1920px;
+    width: 1024px;
 }
 
 #navTh {
-    width: 640px;
+    width: 341px;
     text-align: center;
 }
 
@@ -36,6 +36,7 @@ p {
 #footballPic {
     float: right;
     margin-left: 6px;
+    margin-right:6px;
     position:relative;
     
 }
@@ -44,6 +45,7 @@ p {
     float: left;
     margin-top: 6px;
     margin-right: 6px;
+    margin-left: 20px;
     
 }
 
@@ -51,5 +53,14 @@ p {
     float: right;
     margin-top: 6px;
     margin-left: 6px;
+    margin-right: 60px;
     
+}
+
+#banner {
+    text-align: center;
+}
+
+#aboutPics {
+    width: 1024px;
 }
