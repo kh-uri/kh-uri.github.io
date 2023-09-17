@@ -3,10 +3,12 @@
 h1 {
     color: rgb(232, 0, 66);
     text-align: center;
+    width: 1024px;
 }  
 
 body {
    background-color: wheat;
+   width: 1024px;
 }
   
 #navTable {
@@ -20,6 +22,7 @@ body {
 
 p {
     text-align: center;
+    width: 1024px;
 }
 
 #aboutBody {
@@ -64,8 +67,6 @@ p {
 
 #aboutPics {
     width: 1024px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 #aboutP {
