@@ -10,11 +10,11 @@ body {
 }
   
 #navTable {
-    width: 1024px;
+    width: 1920px;
 }
 
 #navTh {
-    width: 341px;
+    width: 640px;
     text-align: center;
 }
 
@@ -29,31 +29,27 @@ p {
 #karolPic {
     float: left;
     margin-right: 6px;
+    position:relative;
+    
 }
 
 #footballPic {
     float: right;
     margin-left: 6px;
+    position:relative;
+    
 }
 
 #shotput {
     float: left;
     margin-top: 6px;
     margin-right: 6px;
-    padding-left:10px;
+    
 }
 
 #bass {
     float: right;
     margin-top: 6px;
     margin-left: 6px;
-    padding-right: 40px;
-}
-
-h2 {
-    text-align: center;
-}
-
-#aboutList{
-    padding-left: 500;
+    
 }
