@@ -1,0 +1,59 @@
+
+
+h1 {
+    color: rgb(62, 0, 232);
+    text-align: center;
+}  
+
+body {
+   background-color: wheat;
+}
+  
+#navTable {
+    width: 1024px;
+}
+
+#navTh {
+    width: 341px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#aboutBody {
+    background-image: -webkit-image-set("mybackground.jpg");
+}
+
+#karolPic {
+    float: left;
+    margin-right: 6px;
+}
+
+#footballPic {
+    float: right;
+    margin-left: 6px;
+}
+
+#shotput {
+    float: left;
+    margin-top: 6px;
+    margin-right: 6px;
+    padding-left:10px;
+}
+
+#bass {
+    float: right;
+    margin-top: 6px;
+    margin-left: 6px;
+    padding-right: 40px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#aboutList{
+    padding-left: 500;
+}
